@@ -1,0 +1,2 @@
+assignment2_ws:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations
+-DCATKIN_DEVEL_PREFIX=/home/zfeng/Desktop/autonomy/git_ws/AuE893Spring21_ZiyueFeng/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zfeng/Desktop/autonomy/git_ws/AuE893Spring21_ZiyueFeng/catkin_ws/install -G Unix Makefiles
